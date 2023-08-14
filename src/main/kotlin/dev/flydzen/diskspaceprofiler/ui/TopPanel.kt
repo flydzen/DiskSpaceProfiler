@@ -3,8 +3,13 @@ package dev.flydzen.diskspaceprofiler.ui
 import dev.flydzen.diskspaceprofiler.Controller
 import java.awt.Color
 import java.awt.FlowLayout
-import javax.swing.*
+import javax.swing.BorderFactory
+import javax.swing.JButton
+import javax.swing.JFileChooser
+import javax.swing.JPanel
+import javax.swing.JTextField
 import kotlin.io.path.Path
+
 
 class TopPanel(private val controller: Controller, onUpdate: () -> Unit) : JPanel() {
     private val navEditor = JTextField(50)

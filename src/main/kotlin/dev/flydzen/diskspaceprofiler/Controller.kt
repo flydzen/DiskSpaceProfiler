@@ -7,10 +7,13 @@ import java.util.concurrent.atomic.AtomicLong
 import javax.swing.SwingUtilities
 import kotlin.math.min
 
+
+const val MAX_THREAD_NUM = 4
+
 class Controller {
     var root: Node? = null
     private val service = Executors.newFixedThreadPool(
-        min(Runtime.getRuntime().availableProcessors(), 4)
+        min(Runtime.getRuntime().availableProcessors(), MAX_THREAD_NUM)
     )
 
     fun setVisibility(node: Node) {

@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11ad38e8-fe6a-4868-8532-c3f05ab2850c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/View.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Controller.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/View.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Controller.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Controller.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Node.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Node.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/ListItemPanel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/ListItemPanel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/ListPanel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/ListPanel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/TopPanel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/TopPanel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/View.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/View.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,8 +120,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Controller.kt</url>
-          <line>16</line>
-          <option name="timeStamp" value="17" />
+          <line>23</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

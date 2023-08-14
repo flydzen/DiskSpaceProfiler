@@ -1,14 +1,18 @@
 package dev.flydzen.diskspaceprofiler.ui
 
 import dev.flydzen.diskspaceprofiler.Controller
-import java.awt.*
-import javax.swing.*
+import java.awt.BorderLayout
+import javax.swing.JFrame
+import javax.swing.JScrollPane
+import javax.swing.Timer
 
+
+const val  UPDATE_DELAY = 500 // ms
 
 class View(controller: Controller) : JFrame("Disk space profiler") {
     private val topPanel = TopPanel(controller) { onUpdate() }
     private val leftPanel = ListPanel(controller)
-    private val timer = Timer(500) {
+    private val timer = Timer(UPDATE_DELAY) {
         leftPanel.updateValues()
     }
 
