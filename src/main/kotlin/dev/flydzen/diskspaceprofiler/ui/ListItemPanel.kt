@@ -71,7 +71,7 @@ class ListItemPanel(
         delBtn.addActionListener {
             println("Deleting ${node.file}")
             if (showDeleteConfirmationDialog()) {
-                controller.delete(node) { onUpdate }
+                controller.delete(node) { onUpdate() }
             }
         }
     }
