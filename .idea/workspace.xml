@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11ad38e8-fe6a-4868-8532-c3f05ab2850c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Controller.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/View.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Controller.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Controller.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Node.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Node.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/ListItemPanel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/ListItemPanel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/ListPanel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/ListPanel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/TopPanel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/TopPanel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/View.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/ui/View.kt" afterDir="false" />
     </list>
@@ -53,24 +46,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\projects\Kotlin\DiskSpaceProfiler\src\main\kotlin\dev\flydzen\diskspaceprofiler" />
@@ -104,6 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691830137005</updated>
       <workItem from="1691830138020" duration="46930000" />
+      <workItem from="1692312532134" duration="3530000" />
     </task>
     <servers />
   </component>
@@ -115,12 +109,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Controller.kt</url>
-          <line>25</line>
+          <line>42</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/dev/flydzen/diskspaceprofiler/Controller.kt</url>
-          <line>23</line>
+          <line>40</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>

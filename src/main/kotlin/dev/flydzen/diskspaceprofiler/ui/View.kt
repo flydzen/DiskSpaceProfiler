@@ -14,6 +14,7 @@ class View(controller: Controller) : JFrame("Disk space profiler") {
     private val leftPanel = ListPanel(controller)
     private val timer = Timer(UPDATE_DELAY) {
         leftPanel.updateValues()
+        topPanel.setStatus(controller.getStatus())
     }
 
     init {
